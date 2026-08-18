@@ -15,13 +15,13 @@
         {
           "name": "Forest Clearings",
           "description": "",
-          "banner": "",
+          "banner": "https://raw.githubusercontent.com/great-big-world/assets/refs/heads/main/assets/backgrounds/features/forest_clearings.png",
           "wiki_link": ""
         },
         {
           "name": "Biome Colors",
           "description": "",
-          "banner": "",
+          "banner": "https://raw.githubusercontent.com/great-big-world/assets/refs/heads/main/assets/backgrounds/features/biome_colors.png",
           "wiki_link": ""
         },
         {
@@ -38,7 +38,7 @@
         {
           "name": "Season Cycle",
           "description": "",
-          "banner": "",
+          "banner": "https://raw.githubusercontent.com/great-big-world/assets/refs/heads/main/assets/backgrounds/features/seasons.png",
           "wiki_link": ""
         }
       ]
@@ -49,31 +49,31 @@
         {
           "name": "Stackable Small Plants",
           "description": "",
-          "banner": "",
+          "banner": "https://raw.githubusercontent.com/great-big-world/assets/refs/heads/main/assets/backgrounds/features/stackable_flowers.png",
           "wiki_link": ""
         },
         {
           "name": "Fluidlogging",
           "description": "",
-          "banner": "",
+          "banner": "https://raw.githubusercontent.com/great-big-world/assets/refs/heads/main/assets/backgrounds/features/waterlogging.png",
           "wiki_link": ""
         },
         {
           "name": "Snowlogging",
           "description": "",
-          "banner": "",
+          "banner": "https://raw.githubusercontent.com/great-big-world/assets/refs/heads/main/assets/backgrounds/features/snowier_snow.png",
           "wiki_link": ""
         },
         {
           "name": "Fallen Trees",
           "description": "",
-          "banner": "",
+          "banner": "https://raw.githubusercontent.com/great-big-world/assets/refs/heads/main/assets/backgrounds/features/fallen_trees.png",
           "wiki_link": ""
         },
         {
           "name": "Hibiscuses",
           "description": "",
-          "banner": "",
+          "banner": "https://raw.githubusercontent.com/great-big-world/assets/refs/heads/main/assets/backgrounds/features/hibiscuses.png",
           "wiki_link": ""
         }
       ]

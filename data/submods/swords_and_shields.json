@@ -27,13 +27,13 @@
         {
           "name": "Anvils",
           "description": "",
-          "banner": "",
+          "banner": "https://raw.githubusercontent.com/great-big-world/assets/refs/heads/main/assets/backgrounds/features/anvil_overhaul.png",
           "wiki_link": ""
         },
         {
           "name": "Smithing Tables",
           "description": "",
-          "banner": "",
+          "banner": "https://raw.githubusercontent.com/great-big-world/assets/refs/heads/main/assets/backgrounds/features/smithing_overhaul.png",
           "wiki_link": ""
         },
         {
@@ -79,13 +79,13 @@
         {
           "name": "Armor Decoration",
           "description": "",
-          "banner": "",
+          "banner": "https://raw.githubusercontent.com/great-big-world/assets/refs/heads/main/assets/backgrounds/features/armor_decoration.png",
           "wiki_link": ""
         },
         {
           "name": "Elemental Enchantments",
           "description": "",
-          "banner": "",
+          "banner": "https://raw.githubusercontent.com/great-big-world/assets/refs/heads/main/assets/backgrounds/features/enchanted_books.png",
           "wiki_link": ""
         }
       ]

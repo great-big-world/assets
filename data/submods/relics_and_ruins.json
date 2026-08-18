@@ -9,13 +9,13 @@
         {
           "name": "Ice Temples",
           "description": "",
-          "banner": "",
+          "banner": "https://raw.githubusercontent.com/great-big-world/assets/refs/heads/main/assets/backgrounds/features/ice_temples.png",
           "wiki_link": ""
         },
         {
           "name": "Swamp Temples",
           "description": "",
-          "banner": "",
+          "banner": "https://raw.githubusercontent.com/great-big-world/assets/refs/heads/main/assets/backgrounds/features/swamp_temples.png",
           "wiki_link": ""
         },
         {
@@ -38,7 +38,7 @@
         {
           "name": "Cave Paintings",
           "description": "",
-          "banner": "",
+          "banner": "https://raw.githubusercontent.com/great-big-world/assets/refs/heads/main/assets/backgrounds/features/cave_paintings.png",
           "wiki_link": ""
         }
       ]

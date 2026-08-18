@@ -45,7 +45,7 @@
         {
           "name": "Item Frames",
           "description": "",
-          "banner": "",
+          "banner": "https://raw.githubusercontent.com/great-big-world/assets/refs/heads/main/assets/backgrounds/features/dyed_item_frames.png",
           "wiki_link": ""
         }
       ]
@@ -77,7 +77,7 @@
           "wiki_link": ""
         },
         {
-          "name": "Pickaxe Crafting",
+          "name": "Pickaxe Cracking",
           "description": "",
           "banner": "",
           "wiki_link": ""
