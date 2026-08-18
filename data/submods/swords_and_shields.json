@@ -1,0 +1,94 @@
+{
+  "name": "Swords & Shields",
+  "description": "Equipment overhauls, enchanting, & armor decoration",
+  "banner": "",
+  "groups": [
+    {
+      "name": "Overhauls",
+      "features": [
+        {
+          "name": "Enchanting",
+          "description": "",
+          "banner": "",
+          "wiki_link": ""
+        },
+        {
+          "name": "Equipment Tiers",
+          "description": "",
+          "banner": "",
+          "wiki_link": ""
+        },
+        {
+          "name": "Looms",
+          "description": "",
+          "banner": "",
+          "wiki_link": ""
+        },
+        {
+          "name": "Anvils",
+          "description": "",
+          "banner": "",
+          "wiki_link": ""
+        },
+        {
+          "name": "Smithing Tables",
+          "description": "",
+          "banner": "",
+          "wiki_link": ""
+        },
+        {
+          "name": "Armor Trims",
+          "description": "",
+          "banner": "",
+          "wiki_link": ""
+        },
+        {
+          "name": "Netherite Crafting",
+          "description": "",
+          "banner": "",
+          "wiki_link": ""
+        },
+        {
+          "name": "Item Stack Sizes",
+          "description": "",
+          "banner": "",
+          "wiki_link": ""
+        }
+      ]
+    },
+    {
+      "name": "Combat",
+      "features": [
+        {
+          "name": "Monster Behavior",
+          "description": "",
+          "banner": "",
+          "wiki_link": ""
+        },
+        {
+          "name": "Masks",
+          "description": "",
+          "banner": "",
+          "wiki_link": ""
+        }
+      ]
+    },
+    {
+      "name": "Cosmetics",
+      "features": [
+        {
+          "name": "Armor Decoration",
+          "description": "",
+          "banner": "",
+          "wiki_link": ""
+        },
+        {
+          "name": "Elemental Enchantments",
+          "description": "",
+          "banner": "",
+          "wiki_link": ""
+        }
+      ]
+    }
+  ]
+}

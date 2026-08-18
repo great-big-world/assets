@@ -1,0 +1,70 @@
+{
+  "name": "Adventures",
+  "description": "Exploration & world improvements",
+  "banner": "",
+  "groups": [
+    {
+      "name": "World",
+      "features": [
+        {
+          "name": "Dynamic Moonlight",
+          "description": "",
+          "banner": "",
+          "wiki_link": ""
+        },
+        {
+          "name": "Deeper World",
+          "description": "",
+          "banner": "",
+          "wiki_link": ""
+        }
+      ]
+    },
+    {
+      "name": "Exploration",
+      "features": [
+        {
+          "name": "Utility Item HUDs",
+          "description": "",
+          "banner": "",
+          "wiki_link": ""
+        },
+        {
+          "name": "Shacks",
+          "description": "",
+          "banner": "",
+          "wiki_link": ""
+        }
+      ]
+    },
+    {
+      "name": "World Options",
+      "features": [
+        {
+          "name": "Create World Options",
+          "description": "",
+          "banner": "",
+          "wiki_link": ""
+        },
+        {
+          "name": "Bonus House",
+          "description": "",
+          "banner": "",
+          "wiki_link": ""
+        },
+        {
+          "name": "World Types",
+          "description": "",
+          "banner": "",
+          "wiki_link": ""
+        },
+        {
+          "name": "Game Rules",
+          "description": "",
+          "banner": "",
+          "wiki_link": ""
+        }
+      ]
+    }
+  ]
+}

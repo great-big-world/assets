@@ -1,0 +1,53 @@
+{
+  "name": "The Alterworld",
+  "description": "An alternate Overworld dimension to cater to an extrinsic, exploratory playstyle",
+  "banner": "",
+  "groups": [
+    {
+      "name": "Progression",
+      "features": [
+        {
+          "name": "Fractured Ancient Portals",
+          "description": "",
+          "banner": "",
+          "wiki_link": ""
+        },
+        {
+          "name": "Ancient Portals",
+          "description": "",
+          "banner": "",
+          "wiki_link": ""
+        }
+      ]
+    },
+    {
+      "name": "The Alterworld",
+      "features": [
+        {
+          "name": "The Alterworld Dimension",
+          "description": "",
+          "banner": "",
+          "wiki_link": ""
+        },
+        {
+          "name": "Overworld Structure Migration",
+          "description": "",
+          "banner": "",
+          "wiki_link": ""
+        },
+        {
+          "name": "Overworld Feature Migration",
+          "description": "",
+          "banner": "",
+          "wiki_link": ""
+        },
+        {
+          "name": "Overworld Feature Removal",
+          "description": "",
+          "banner": "",
+          "wiki_link": ""
+        }
+      ]
+    }
+  ]
+}

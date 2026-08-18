@@ -1,0 +1,66 @@
+{
+  "name": "Standalone Mods",
+  "description": "Small-feature external mods packaged within Great Big World",
+  "banner": "",
+  "groups": [
+    {
+      "name": "Mods",
+      "features": [
+        {
+          "name": "Lightning Flash",
+          "description": "",
+          "banner": "",
+          "wiki_link": ""
+        },
+        {
+          "name": "Rotatable Sculk",
+          "description": "",
+          "banner": "",
+          "wiki_link": ""
+        },
+        {
+          "name": "Delay Tool Usage",
+          "description": "",
+          "banner": "",
+          "wiki_link": ""
+        },
+        {
+          "name": "Copper Pressure Plates",
+          "description": "",
+          "banner": "",
+          "wiki_link": ""
+        },
+        {
+          "name": "Boat Through Lilies",
+          "description": "",
+          "banner": "",
+          "wiki_link": ""
+        },
+        {
+          "name": "Item Name Variants",
+          "description": "",
+          "banner": "",
+          "wiki_link": ""
+        },
+        {
+          "name": "Staircased Dripleaf",
+          "description": "",
+          "banner": "",
+          "wiki_link": ""
+        },
+        {
+          "name": "Rain Through Leaves",
+          "description": "",
+          "banner": "",
+          "wiki_link": ""
+        },
+        {
+          "name": "Place Signs Easy",
+          "description": "",
+          "banner": "",
+          "wiki_link": ""
+        }
+      ]
+    }
+  ]
+}

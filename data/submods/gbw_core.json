@@ -1,0 +1,76 @@
+{
+  "name": "Core",
+  "description": "Internal library for Great Big World",
+  "banner": "",
+  "groups": [
+    {
+      "name": "Systems",
+      "features": [
+        {
+          "name": "Knowledge",
+          "description": "",
+          "banner": "",
+          "wiki_link": ""
+        },
+        {
+          "name": "Elements",
+          "description": "",
+          "banner": "",
+          "wiki_link": ""
+        },
+        {
+          "name": "Structure Triggers",
+          "description": "",
+          "banner": "",
+          "wiki_link": ""
+        },
+        {
+          "name": "Mappings",
+          "description": "",
+          "banner": "",
+          "wiki_link": ""
+        }
+      ]
+    },
+    {
+      "name": "Utilities",
+      "features": [
+        {
+          "name": "Feature Placement Modifiers",
+          "description": "",
+          "banner": "",
+          "wiki_link": ""
+        },
+        {
+          "name": "General Commands",
+          "description": "",
+          "banner": "",
+          "wiki_link": ""
+        },
+        {
+          "name": "General Tags",
+          "description": "",
+          "banner": "",
+          "wiki_link": ""
+        },
+        {
+          "name": "FastNoise",
+          "description": "",
+          "banner": "",
+          "wiki_link": ""
+        }
+      ]
+    },
+    {
+      "name": "APIs",
+      "features": [
+        {
+          "name": "Entity-Block Collision Interactions",
+          "description": "",
+          "banner": "",
+          "wiki_link": ""
+        }
+      ]
+    }
+  ]
+}

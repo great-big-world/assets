@@ -1,0 +1,47 @@
+{
+  "name": "Relics & Ruins",
+  "description": "New temples & loot overhauls",
+  "banner": "",
+  "groups": [
+    {
+      "name": "Temples",
+      "features": [
+        {
+          "name": "Ice Temples",
+          "description": "",
+          "banner": "",
+          "wiki_link": ""
+        },
+        {
+          "name": "Swamp Temples",
+          "description": "",
+          "banner": "",
+          "wiki_link": ""
+        },
+        {
+          "name": "Building Blocks",
+          "description": "",
+          "banner": "",
+          "wiki_link": ""
+        }
+      ]
+    },
+    {
+      "name": "Exploration",
+      "features": [
+        {
+          "name": "Loot Tables",
+          "description": "",
+          "banner": "",
+          "wiki_link": ""
+        },
+        {
+          "name": "Cave Paintings",
+          "description": "",
+          "banner": "",
+          "wiki_link": ""
+        }
+      ]
+    }
+  ]
+}

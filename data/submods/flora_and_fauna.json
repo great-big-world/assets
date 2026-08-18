@@ -1,0 +1,93 @@
+{
+  "name": "Adventures",
+  "description": "Exploration & world improvements",
+  "banner": "",
+  "groups": [
+    {
+      "name": "Biomes",
+      "features": [
+        {
+          "name": "River Variants",
+          "description": "",
+          "banner": "",
+          "wiki_link": ""
+        },
+        {
+          "name": "Forest Clearings",
+          "description": "",
+          "banner": "",
+          "wiki_link": ""
+        },
+        {
+          "name": "Biome Colors",
+          "description": "",
+          "banner": "",
+          "wiki_link": ""
+        },
+        {
+          "name": "Biome Features",
+          "description": "",
+          "banner": "",
+          "wiki_link": ""
+        }
+      ]
+    },
+    {
+      "name": "Seasons",
+      "features": [
+        {
+          "name": "Season Cycle",
+          "description": "",
+          "banner": "",
+          "wiki_link": ""
+        }
+      ]
+    },
+    {
+      "name": "Natural Blocks",
+      "features": [
+        {
+          "name": "Stackable Small Plants",
+          "description": "",
+          "banner": "",
+          "wiki_link": ""
+        },
+        {
+          "name": "Fluidlogging",
+          "description": "",
+          "banner": "",
+          "wiki_link": ""
+        },
+        {
+          "name": "Snowlogging",
+          "description": "",
+          "banner": "",
+          "wiki_link": ""
+        },
+        {
+          "name": "Fallen Trees",
+          "description": "",
+          "banner": "",
+          "wiki_link": ""
+        },
+        {
+          "name": "Hibiscuses",
+          "description": "",
+          "banner": "",
+          "wiki_link": ""
+        }
+      ]
+    },
+    {
+      "name": "Fauna",
+      "features": [
+        {
+          "name": "Animal Behaviors",
+          "description": "",
+          "banner": "",
+          "wiki_link": ""
+        }
+      ]
+    }
+  ]
+}
