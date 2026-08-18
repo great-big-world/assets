@@ -58,6 +58,12 @@
           "banner": "https://raw.githubusercontent.com/great-big-world/assets/refs/heads/main/assets/backgrounds/features/waterloggables.png",
           "wiki_link": ""
         },
+		{
+          "name": "Lavalogging",
+          "description": "",
+          "banner": "https://raw.githubusercontent.com/great-big-world/assets/refs/heads/main/assets/backgrounds/features/lavalogging.png",
+          "wiki_link": ""
+        },
         {
           "name": "Snowlogging",
           "description": "",
