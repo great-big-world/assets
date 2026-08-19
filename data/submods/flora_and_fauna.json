@@ -9,7 +9,7 @@
         {
           "name": "River Variants",
           "description": "",
-          "banner": "",
+          "banner": "https://raw.githubusercontent.com/great-big-world/assets/refs/heads/main/assets/backgrounds/features/river_variants.png",
           "wiki_link": ""
         },
         {
@@ -90,7 +90,7 @@
         {
           "name": "Animal Behaviors",
           "description": "",
-          "banner": "",
+          "banner": "https://raw.githubusercontent.com/great-big-world/assets/refs/heads/main/assets/backgrounds/features/animal_behaviors.png",
           "wiki_link": ""
         }
       ]

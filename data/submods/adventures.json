@@ -55,13 +55,13 @@
         {
           "name": "World Types",
           "description": "",
-          "banner": "",
+          "banner": "https://raw.githubusercontent.com/great-big-world/assets/refs/heads/main/assets/backgrounds/features/skyblock.png",
           "wiki_link": ""
         },
         {
           "name": "Game Rules",
           "description": "",
-          "banner": "",
+          "banner": "https://raw.githubusercontent.com/great-big-world/assets/refs/heads/main/assets/backgrounds/features/game_rules.png",
           "wiki_link": ""
         }
       ]

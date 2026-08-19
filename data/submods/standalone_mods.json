@@ -21,7 +21,7 @@
         {
           "name": "Delay Tool Usage",
           "description": "",
-          "banner": "",
+          "banner": "https://raw.githubusercontent.com/great-big-world/assets/refs/heads/main/assets/backgrounds/features/delay_tool_usage.png",
           "wiki_link": ""
         },
         {
@@ -33,7 +33,7 @@
         {
           "name": "Boat Through Lilies",
           "description": "",
-          "banner": "",
+          "banner": "https://raw.githubusercontent.com/great-big-world/assets/refs/heads/main/assets/backgrounds/features/boat_lilies.png",
           "wiki_link": ""
         },
         {
@@ -51,13 +51,13 @@
         {
           "name": "Rain Through Leaves",
           "description": "",
-          "banner": "",
+          "banner": "https://raw.githubusercontent.com/great-big-world/assets/refs/heads/main/assets/backgrounds/features/rain_through_leaves.png",
           "wiki_link": ""
         },
         {
           "name": "Place Signs Easy",
           "description": "",
-          "banner": "",
+          "banner": "https://raw.githubusercontent.com/great-big-world/assets/refs/heads/main/assets/backgrounds/features/place_signs_easy.png",
           "wiki_link": ""
         }
       ]

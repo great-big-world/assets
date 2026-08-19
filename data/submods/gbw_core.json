@@ -15,7 +15,7 @@
         {
           "name": "Structure Triggers",
           "description": "",
-          "banner": "",
+          "banner": "https://raw.githubusercontent.com/great-big-world/assets/refs/heads/main/assets/backgrounds/features/structure_triggers.png",
           "wiki_link": ""
         },
         {
@@ -50,7 +50,7 @@
         {
           "name": "FastNoise",
           "description": "",
-          "banner": "",
+          "banner": "https://raw.githubusercontent.com/great-big-world/assets/refs/heads/main/assets/backgrounds/features/fastnoise.png",
           "wiki_link": ""
         }
       ]
@@ -61,7 +61,7 @@
         {
           "name": "Entity-Block Collision Interactions",
           "description": "",
-          "banner": "",
+          "banner": "https://raw.githubusercontent.com/great-big-world/assets/refs/heads/main/assets/backgrounds/features/boat_lilies.png",
           "wiki_link": ""
         }
       ]

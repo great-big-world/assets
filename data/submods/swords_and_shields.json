@@ -9,13 +9,13 @@
         {
           "name": "Enchanting",
           "description": "",
-          "banner": "",
+          "banner": "https://raw.githubusercontent.com/great-big-world/assets/refs/heads/main/assets/backgrounds/features/enchanting.png",
           "wiki_link": ""
         },
         {
           "name": "Equipment Tiers",
           "description": "",
-          "banner": "",
+          "banner": "https://raw.githubusercontent.com/great-big-world/assets/refs/heads/main/assets/backgrounds/features/equipment_tiers.png",
           "wiki_link": ""
         },
         {
@@ -39,13 +39,13 @@
         {
           "name": "Armor Trims",
           "description": "",
-          "banner": "",
+          "banner": "https://raw.githubusercontent.com/great-big-world/assets/refs/heads/main/assets/backgrounds/features/armor_trims.png",
           "wiki_link": ""
         },
         {
           "name": "Netherite Crafting",
           "description": "",
-          "banner": "",
+          "banner": "https://raw.githubusercontent.com/great-big-world/assets/refs/heads/main/assets/backgrounds/features/netherite_crafting.png",
           "wiki_link": ""
         },
         {
@@ -61,12 +61,6 @@
       "features": [
         {
           "name": "Monster Behavior",
-          "description": "",
-          "banner": "",
-          "wiki_link": ""
-        },
-        {
-          "name": "Masks",
           "description": "",
           "banner": "",
           "wiki_link": ""
