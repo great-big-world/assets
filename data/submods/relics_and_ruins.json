@@ -9,19 +9,19 @@
         {
           "name": "Ice Temples",
           "description": "",
-          "banner": "https://raw.githubusercontent.com/great-big-world/assets/refs/heads/main/assets/backgrounds/features/ice_temple.png",
+          "banner": "https://rawcdn.githack.com/great-big-world/assets/refs/heads/main/assets/backgrounds/features/ice_temple.png",
           "wiki_link": ""
         },
         {
           "name": "Swamp Temples",
           "description": "",
-          "banner": "https://raw.githubusercontent.com/great-big-world/assets/refs/heads/main/assets/backgrounds/features/swamp_pyramid.png",
+          "banner": "https://rawcdn.githack.com/great-big-world/assets/refs/heads/main/assets/backgrounds/features/swamp_pyramid.png",
           "wiki_link": ""
         },
         {
           "name": "Building Blocks",
           "description": "",
-          "banner": "https://raw.githubusercontent.com/great-big-world/assets/refs/heads/main/assets/backgrounds/features/building_blocks.png",
+          "banner": "https://rawcdn.githack.com/great-big-world/assets/refs/heads/main/assets/backgrounds/features/building_blocks.png",
           "wiki_link": ""
         }
       ]
@@ -32,13 +32,13 @@
         {
           "name": "Loot Tables",
           "description": "",
-          "banner": "https://raw.githubusercontent.com/great-big-world/assets/refs/heads/main/assets/backgrounds/features/loot_tables.png",
+          "banner": "https://rawcdn.githack.com/great-big-world/assets/refs/heads/main/assets/backgrounds/features/loot_tables.png",
           "wiki_link": ""
         },
         {
           "name": "Cave Paintings",
           "description": "",
-          "banner": "https://raw.githubusercontent.com/great-big-world/assets/refs/heads/main/assets/backgrounds/features/cave_paintings.png",
+          "banner": "https://rawcdn.githack.com/great-big-world/assets/refs/heads/main/assets/backgrounds/features/cave_paintings.png",
           "wiki_link": ""
         }
       ]

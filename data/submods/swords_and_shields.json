@@ -9,13 +9,13 @@
         {
           "name": "Enchanting",
           "description": "",
-          "banner": "https://raw.githubusercontent.com/great-big-world/assets/refs/heads/main/assets/backgrounds/features/enchanting.png",
+          "banner": "https://rawcdn.githack.com/great-big-world/assets/refs/heads/main/assets/backgrounds/features/enchanting.png",
           "wiki_link": ""
         },
         {
           "name": "Equipment Tiers",
           "description": "",
-          "banner": "https://raw.githubusercontent.com/great-big-world/assets/refs/heads/main/assets/backgrounds/features/equipment_tiers.png",
+          "banner": "https://rawcdn.githack.com/great-big-world/assets/refs/heads/main/assets/backgrounds/features/equipment_tiers.png",
           "wiki_link": ""
         },
         {
@@ -27,25 +27,25 @@
         {
           "name": "Anvils",
           "description": "",
-          "banner": "https://raw.githubusercontent.com/great-big-world/assets/refs/heads/main/assets/backgrounds/features/anvil_overhaul.png",
+          "banner": "https://rawcdn.githack.com/great-big-world/assets/refs/heads/main/assets/backgrounds/features/anvil_overhaul.png",
           "wiki_link": ""
         },
         {
           "name": "Smithing Tables",
           "description": "",
-          "banner": "https://raw.githubusercontent.com/great-big-world/assets/refs/heads/main/assets/backgrounds/features/smithing_overhaul.png",
+          "banner": "https://rawcdn.githack.com/great-big-world/assets/refs/heads/main/assets/backgrounds/features/smithing_overhaul.png",
           "wiki_link": ""
         },
         {
           "name": "Armor Trims",
           "description": "",
-          "banner": "https://raw.githubusercontent.com/great-big-world/assets/refs/heads/main/assets/backgrounds/features/armor_trims.png",
+          "banner": "https://rawcdn.githack.com/great-big-world/assets/refs/heads/main/assets/backgrounds/features/armor_trims.png",
           "wiki_link": ""
         },
         {
           "name": "Netherite Crafting",
           "description": "",
-          "banner": "https://raw.githubusercontent.com/great-big-world/assets/refs/heads/main/assets/backgrounds/features/netherite_crafting.png",
+          "banner": "https://rawcdn.githack.com/great-big-world/assets/refs/heads/main/assets/backgrounds/features/netherite_crafting.png",
           "wiki_link": ""
         },
         {
@@ -73,13 +73,13 @@
         {
           "name": "Armor Decoration",
           "description": "",
-          "banner": "https://raw.githubusercontent.com/great-big-world/assets/refs/heads/main/assets/backgrounds/features/armor_decoration.png",
+          "banner": "https://rawcdn.githack.com/great-big-world/assets/refs/heads/main/assets/backgrounds/features/armor_decoration.png",
           "wiki_link": ""
         },
         {
           "name": "Elemental Enchantments",
           "description": "",
-          "banner": "https://raw.githubusercontent.com/great-big-world/assets/refs/heads/main/assets/backgrounds/features/enchanted_books.png",
+          "banner": "https://rawcdn.githack.com/great-big-world/assets/refs/heads/main/assets/backgrounds/features/enchanted_books.png",
           "wiki_link": ""
         }
       ]

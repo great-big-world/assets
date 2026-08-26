@@ -9,19 +9,19 @@
         {
           "name": "River Variants",
           "description": "",
-          "banner": "https://raw.githubusercontent.com/great-big-world/assets/refs/heads/main/assets/backgrounds/features/river_variants.png",
+          "banner": "https://rawcdn.githack.com/great-big-world/assets/refs/heads/main/assets/backgrounds/features/river_variants.png",
           "wiki_link": ""
         },
         {
           "name": "Forest Clearings",
           "description": "",
-          "banner": "https://raw.githubusercontent.com/great-big-world/assets/refs/heads/main/assets/backgrounds/features/forest_clearings.png",
+          "banner": "https://rawcdn.githack.com/great-big-world/assets/refs/heads/main/assets/backgrounds/features/forest_clearings.png",
           "wiki_link": ""
         },
         {
           "name": "Biome Colors",
           "description": "",
-          "banner": "https://raw.githubusercontent.com/great-big-world/assets/refs/heads/main/assets/backgrounds/features/biome_colors.png",
+          "banner": "https://rawcdn.githack.com/great-big-world/assets/refs/heads/main/assets/backgrounds/features/biome_colors.png",
           "wiki_link": ""
         },
         {
@@ -38,7 +38,7 @@
         {
           "name": "Season Cycle",
           "description": "",
-          "banner": "https://raw.githubusercontent.com/great-big-world/assets/refs/heads/main/assets/backgrounds/features/seasons.png",
+          "banner": "https://rawcdn.githack.com/great-big-world/assets/refs/heads/main/assets/backgrounds/features/seasons.png",
           "wiki_link": ""
         }
       ]
@@ -49,37 +49,37 @@
         {
           "name": "Stackable Small Plants",
           "description": "",
-          "banner": "https://raw.githubusercontent.com/great-big-world/assets/refs/heads/main/assets/backgrounds/features/stackable_flowers.png",
+          "banner": "https://rawcdn.githack.com/great-big-world/assets/refs/heads/main/assets/backgrounds/features/stackable_flowers.png",
           "wiki_link": ""
         },
         {
           "name": "Fluidlogging",
           "description": "",
-          "banner": "https://raw.githubusercontent.com/great-big-world/assets/refs/heads/main/assets/backgrounds/features/waterloggables.png",
+          "banner": "https://rawcdn.githack.com/great-big-world/assets/refs/heads/main/assets/backgrounds/features/waterloggables.png",
           "wiki_link": ""
         },
 		{
           "name": "Lavalogging",
           "description": "",
-          "banner": "https://raw.githubusercontent.com/great-big-world/assets/refs/heads/main/assets/backgrounds/features/lavalogging.png",
+          "banner": "https://rawcdn.githack.com/great-big-world/assets/refs/heads/main/assets/backgrounds/features/lavalogging.png",
           "wiki_link": ""
         },
         {
           "name": "Snowlogging",
           "description": "",
-          "banner": "https://raw.githubusercontent.com/great-big-world/assets/refs/heads/main/assets/backgrounds/features/snowier_snow.png",
+          "banner": "https://rawcdn.githack.com/great-big-world/assets/refs/heads/main/assets/backgrounds/features/snowier_snow.png",
           "wiki_link": ""
         },
         {
           "name": "Fallen Trees",
           "description": "",
-          "banner": "https://raw.githubusercontent.com/great-big-world/assets/refs/heads/main/assets/backgrounds/features/fallen_trees.png",
+          "banner": "https://rawcdn.githack.com/great-big-world/assets/refs/heads/main/assets/backgrounds/features/fallen_trees.png",
           "wiki_link": ""
         },
         {
           "name": "Hibiscuses",
           "description": "",
-          "banner": "https://raw.githubusercontent.com/great-big-world/assets/refs/heads/main/assets/backgrounds/features/hibiscuses.png",
+          "banner": "https://rawcdn.githack.com/great-big-world/assets/refs/heads/main/assets/backgrounds/features/hibiscuses.png",
           "wiki_link": ""
         }
       ]
@@ -90,7 +90,7 @@
         {
           "name": "Animal Behaviors",
           "description": "",
-          "banner": "https://raw.githubusercontent.com/great-big-world/assets/refs/heads/main/assets/backgrounds/features/animal_behaviors.png",
+          "banner": "https://rawcdn.githack.com/great-big-world/assets/refs/heads/main/assets/backgrounds/features/animal_behaviors.png",
           "wiki_link": ""
         }
       ]
