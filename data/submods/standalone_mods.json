@@ -59,6 +59,18 @@
           "description": "",
           "banner": "https://rawcdn.githack.com/great-big-world/assets/refs/heads/main/assets/backgrounds/features/place_signs_easy.png",
           "wiki_link": ""
+        },
+		{
+          "name": "Ladder Sprint",
+          "description": "",
+          "banner": "https://rawcdn.githack.com/great-big-world/assets/refs/heads/main/assets/backgrounds/features/ladder_sprint.png",
+          "wiki_link": ""
+        },
+		{
+          "name": "Spongey Reefs",
+          "description": "",
+          "banner": "https://rawcdn.githack.com/great-big-world/assets/refs/heads/main/assets/backgrounds/features/spongey_reefs.png",
+          "wiki_link": ""
         }
       ]
     }
