@@ -71,6 +71,24 @@
           "description": "",
           "banner": "https://rawcdn.githack.com/great-big-world/assets/refs/heads/main/assets/backgrounds/features/spongey_reefs.png",
           "wiki_link": ""
+        },
+		{
+          "name": "Limited Arrows",
+          "description": "",
+          "banner": "https://rawcdn.githack.com/great-big-world/assets/refs/heads/main/assets/backgrounds/features/skeletons.png",
+          "wiki_link": ""
+        },
+		{
+          "name": "Hollow Logs",
+          "description": "",
+          "banner": "https://rawcdn.githack.com/great-big-world/assets/refs/heads/main/assets/backgrounds/features/hollow_logs.png",
+          "wiki_link": ""
+        },
+		{
+          "name": "Stackable Plants",
+          "description": "",
+          "banner": "https://rawcdn.githack.com/great-big-world/assets/refs/heads/main/assets/backgrounds/features/stackable_flowers.png",
+          "wiki_link": ""
         }
       ]
     }
